@@ -1,0 +1,38 @@
+============================================================
+          PANDAS BASICS - DAY 10
+============================================================
+
+Complete Dataset
+
+     Name  Age Branch  Marks
+0   Akash   20   AIML     92
+1   Rahul   21    CSE     85
+2   Priya   20     IT     90
+3    Neha   22    ECE     88
+4    Aman   21   AIML     95
+5   Sneha   20    CSE     81
+
+Dataset Information
+<class 'pandas.core.frame.DataFrame'>
+...
+
+First 3 Records
+...
+
+Students with Marks greater than 90
+
+    Name Age Branch Marks
+0  Akash 20 AIML   92
+4   Aman 21 AIML   95
+
+Average Marks
+88.5
+
+Highest Marks
+95
+
+Lowest Marks
+81
+
+Program Executed Successfully ✅
+============================================================
